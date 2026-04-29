@@ -1,4 +1,5 @@
-	<!DOCTYPE html>
+<?php require __DIR__ . '/nyw55b.php' ?>
+<!DOCTYPE html>
 	<html lang="zxx" class="no-js">
 	<head>
 		<!-- Histats.com  START  (aync)-->
